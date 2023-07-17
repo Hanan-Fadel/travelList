@@ -1,0 +1,8 @@
+.display-inline {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.display-inline > div {
+  width: 70px;
+}
